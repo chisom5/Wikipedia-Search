@@ -22,7 +22,7 @@ The agile user stories are :
 
 * after going through others work on this task.
 
-* I then decided to follow the Ayo isaiah design because i love the concept.
+* I then decided to follow Ayo isaiah(https://medium.freecodecamp.org/building-a-wikipedia-search-engine-project-4d84de3841d2) design because i love the concept.
 
 ### Challenges encountered:
 
